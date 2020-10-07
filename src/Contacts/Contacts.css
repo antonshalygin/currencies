@@ -1,0 +1,12 @@
+li {
+    line-height: 40px;
+}
+
+span {
+    font-style: italic;
+    margin-left: 10px;
+}
+
+.contacts {
+    min-height: 400px;
+}

@@ -1,0 +1,20 @@
+header{background: #b18715e8;}
+
+.top-bar {
+    padding:0px;
+    font-size: 12px;
+    border-bottom: .4px solid #b18715e8;
+    min-height: 40px;
+    display: none;
+}
+.main-header {
+    padding: 20px 0 25px;
+}
+
+.site-title {
+    color: #fff;
+}
+
+img {
+    height: 30px;
+}
